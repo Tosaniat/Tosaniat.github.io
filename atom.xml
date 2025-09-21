@@ -6,28 +6,30 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-28T11:16:42.265Z</updated>
+  <updated>2025-09-21T14:29:27.129Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2023/10/28/hello-world/"/>
-    <id>http://example.com/2023/10/28/hello-world/</id>
-    <published>2023-10-28T11:16:42.265Z</published>
-    <updated>2023-10-28T11:16:42.265Z</updated>
+    <title>a new start</title>
+    <link href="http://example.com/2025/09/21/first/"/>
+    <id>http://example.com/2025/09/21/first/</id>
+    <published>2025-09-21T13:36:10.000Z</published>
+    <updated>2025-09-21T14:29:27.129Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>其实说这是我的第一个blog肯定是不正确的，因为我初中就开始整这个，初中当时懵懵懂懂的也整了一个<a href="shencys.github.io">first blog</a>，当时好像在上面写了一些文章，但是有种为赋新词强说愁的意味。因为其实当时我没有那么多要表达的东西，也不算是一种技术分享吧，因为当时属实没有什么技术可以分享的，所谓技术报告，无非就是一个dij加了个堆优化，当时用着结构体外的重构都觉得自己已经是C++语法大师了。但是很遗憾的是，那个blog最后丢失了，丢失的原因还是挺可惜的，那时候的我并不知道重装系统会丢失C盘里的东西，然后当时不知道为什么觉得那台电脑的win7系统实在是落后，自己找了个win10重装了一下午。说来也真是遥远，那个blog最后一次更新已经是2019年了，有一天我突发奇想想去回忆一下当年的很多内容，但是无比可惜的是，当年的密码最终防住了我，很多文章我现在都已经忘记了密码，打不开他们了。</p><p>到了高中当时出于对第一个blog的可惜，我搭建了第二个<a href="tosania.github.io">blog</a>说实话，这个就更是演都不演了，上面根本就没有文章，但是当时也许是技术变好了，或者单纯的就是电脑技术变的更加好了，所以我当时给这个blog加上了很多样的东西，乱七八糟的功能都加在上面，当时也许是在信奥的时候搞得？还是某个寒暑假？我也记不太清了。但是这个blog也丢失了，因为当时电脑屏幕坏了被送去电脑城修，到现在都没有下文。</p><p>反倒是现在用的这个blog，当时是大一的时候，我后来的队友，当时在校园论坛发帖说有没有人会搭blog，然后我就加了他，看他在搭blog我就顺便也搭了一个。但是实在是没有初高中瞎折腾的心气和时间了，所以我随便找了个主题配上，甚至其他各种的东西都没有加上（说实话，我现在反而觉得有些东西还挺重要的，比如当时我都不知道搞评论有什么意义，但是现在我觉得或许能有机会在blog做一个debate还挺有意义的）。然后大学前两年也没什么好说的，继续把这个blog荒废着，直到最近，开始做一些科研了，然后看到science robotics上有一个view point，我觉得，欸，这种挺好的，可能我看到了这些观点会有一些自己的感悟，也许我可以把他写下来。再加上之前可能对于其他的一些社会啊、学术啊、生活啥的都有一些感悟，可能我现在真的需要一个blog了。再加上之前可能有一些项目，比如我上学期做的一个pybullet的连续体机器人的仿真，最后可能没什么成果，但是我也许还是在其中学到了一些东西的，比如可能强化学习的基本代码结构？或者是我搭建仿真时候的一些小巧思，所以我感觉现在的我确实还是需要一个blog的。</p><p>至于这个blog的状态，我觉得他确实可能还是需要一些优化的，也许我现在优化他并不会花很多时间，毕竟之前都搭过两个了，但是我现在觉得反而可能不是特别有必要了。所以先这样吧，这个blog之后可能会更新我的一些想法，一些我做的项目的技术报告，一些我的杂谈之类的吧，更新就肯定是不定期的了，大概就是每天工作做完了之后的一个消遣吧。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;其实说这是我的第一个blog肯定是不正确的，因为我初中就开始整这个，初中当时懵懵懂懂的也整了一个&lt;a href=&quot;shencys.github.io&quot;&gt;first blog&lt;/a&gt;，当时好像在上面写了一些文章，但是有种为赋新词强说愁的意味。因为其实当时我没有那么多要表达的东</summary>
       
     
     
     
+    
+    <category term="杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
